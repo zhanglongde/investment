@@ -19,6 +19,7 @@ houseProperty
 产权
 毛坯 精装
 预售许可证是一栋一栋的发的
+改善性住房
 
 [买房前要学习哪些知识（常识），有哪些获取的途径推荐？](https://www.zhihu.com/question/28086367)
 [普通人要经过怎样的努力才能在北上深买一套房？](https://www.zhihu.com/question/50281752/answer/128919363)
